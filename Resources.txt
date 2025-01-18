@@ -1,0 +1,9 @@
+Pandas vs. Polars
+Short blogpost on the difference between Polars and Pandas: https://blog.jetbrains.com/pycharm/2024/07/polars-vs-pandas/
+For Pandas users looking to switch to Polars: https://docs.pola.rs/user-guide/migration/pandas/
+
+Pathlib: 
+https://realpython.com/python-pathlib/
+https://peps.python.org/pep-0428/
+
+DuckDB: https://duckdb.org/docs/api/python/overview
